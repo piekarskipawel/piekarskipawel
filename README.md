@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @piekarskipawel
-- 👀 I’m interested in Unix systems, administration, automation, bash scripting and Python programming language.
-- 🌱 I’m currently learning DevOps tools.
 - 📫 How to reach me? You can reach me via Linkedin @ppiekarski.
 
 <!---
